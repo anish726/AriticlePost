@@ -1,0 +1,23 @@
+.form{
+    text-align: center;
+    margin: 8rem auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.formgroup{
+    font-size: 25px;
+    margin: 15px;
+}
+.fromControl{
+    width: 40%;
+    padding: 10px;
+    outline: none;
+    border-radius: 10px;
+}
+.btn{
+    width: 20%;
+    height: 40px;
+    text-align: center;
+    background-color: cadetblue;
+}

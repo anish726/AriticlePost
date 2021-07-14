@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+ 
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    flex-wrap: wrap;
+    gap: 40px;
+
+
+}
+.text{
+    display:flex;
+    justify-content: space-around;
+padding: 15px;
+}

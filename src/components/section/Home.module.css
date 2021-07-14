@@ -1,0 +1,38 @@
+.card{
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 5%;
+  position: relative;
+  font-size: medium;
+  border-radius: 15px;
+  background: rgb(197, 188, 188);
+  padding: 20px;
+  height: 100%;
+  max-width: 500px;
+ 
+}
+
+.titel h3{
+font-size: 25px;
+text-align: center;
+padding: 10px;
+}
+.titel p{
+  font-size: 16px;
+  font-weight: bold;
+  padding: 5px;
+}
+i{
+  cursor: pointer;
+}
+
+.text{
+  cursor: pointer;
+}
+
+.app {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  background: lightblue;
+}
